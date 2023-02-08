@@ -1,0 +1,17 @@
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\bin\Release\AnyStore.exe.config
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\bin\Release\AnyStore.exe
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\bin\Release\AnyStore.pdb
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.frmAdminDashboard.resources
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.UI.frmCategories.resources
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.UI.frmDeaCust.resources
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.UI.frmInventory.resources
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.UI.frmLogin.resources
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.UI.frmProducts.resources
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.UI.frmPurchaseAndSales.resources
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.UI.frmTransactions.resources
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.frmUserDashboard.resources
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.Properties.Resources.resources
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.UI.frmUsers.resources
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.csproj.GenerateResource.cache
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.exe
+C:\Users\ASUS\Source\Repos\anystore\AnyStore\obj\Release\AnyStore.pdb
